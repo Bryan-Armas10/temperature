@@ -32,7 +32,7 @@ xxxx
 myName = "Samantha";
 lastName = "Jimenez";
 // my name is Samantha Jimenez, and I am 99 years old.
-console.log("My name is: " + myName + " " + lastName + ", and I am " + myAge + " " + "years old" );
+console.log("My name is: " + myName + " " + lastName + ", and I am " + myAge + " years old." );
 
 let number1 = 10;
 let number2 = 5;
@@ -56,3 +56,8 @@ console.log(number1 + " / " + number2 + " = " + divicions);
 const pi = 3.1416;
 // pi = 4.5 // we can't modify a constant
 console.log(pi);
+// calculate the area of circle
+
+// PROMPT: this is simple way to interact with a user
+let pet  = prompt("Insert your pet name: ");
+console.log("your pet is: " + pet);
