@@ -15,6 +15,7 @@ if(studentAge == studentAge2){
     console.log("Both are the same");
 }
 
+
 // ======= if-else statement ---
 // if(condition){
 //      Code to be excecute if condition is true
@@ -34,6 +35,7 @@ if("Sam" == "Jesus"){
 // F: display "you are underage"
 
 let Age = 20;
+
 if(Age>= 21){
     console.log("you are an adult");
 }else{
@@ -59,8 +61,6 @@ if(Age<13){
 }else{
     console.log("senior");
 }
-
-
 
 
 
